@@ -1,2 +1,3 @@
-# my_site
-My website
+# My Website
+
+In this repository we build a website.
