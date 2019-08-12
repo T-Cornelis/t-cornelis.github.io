@@ -1,16 +1,28 @@
 ---
 layout: page
-title: MSG
+title: MSG Zirkel - Dotorheenstr. 24 (HU Berlin, Mitte)
 description: MSG Zirkel Webseite 
 ---
 
-
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
-
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+Diese Webseite wird sich in der Zeit etwas verbessern. 
 
 
+Einige wichtige Infos: 
+
+ - Erster Termin: Dorotheenstr. 24, Raum 2.102, Datum: 21.08, Uhrzeit: 16:30 
+
+ - Der Termin am 28.8 wird NICHT stattfinden. 
+
+ - Zweiter Termin: Dorotheenstr. 24, Raum 1.307, Datum: 4.09, Uhrzeit: 16:30 
+
+(Bitter bemerken Sie, dass der Raum im zweiten Termin vom ersten abweicht) 
+
+Einige nuetzliche Links:
+
+ - Zum online rechnen: https://www.wolframalpha.com.
+ - Ein Forum mit vielen guten Fragen/Antworten: https://math.stackexchange.com.
+ - Die Webseite der MSG:
+   http://didaktik.mathematik.hu-berlin.de/de/schule/msg-schuelergesellschaft.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
