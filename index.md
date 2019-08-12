@@ -4,13 +4,6 @@ title: TR
 description: Tommaso is a PhD candidate at Humboldt University. 
 keywords: hello, goodbye
 ---
-
- - Zur Seite des MSG Zirkels [hier](pages/msb.html).
-
- - For a list of my publications click [here](pages/research.html).
-
-<!--[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>-->
-
 ---
 
 
@@ -31,10 +24,17 @@ keywords: hello, goodbye
     </div>
 </div>
 
+ - Zur Seite des MSG Zirkels [hier](pages/msb.html).
+
+ - For a list of my publications click [here](pages/research.html).
+
+<!--[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>-->
+
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/cv.html">cv</a></li>
           <li><a href="https://github.com/T-Cornelis">GitHub</a></li>
       </ul>
   </div>
