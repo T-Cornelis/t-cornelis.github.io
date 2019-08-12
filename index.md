@@ -5,7 +5,9 @@ description: Tommaso is a PhD candidate at Humboldt University.
 keywords: hello, goodbye
 ---
 
- - Zur Seite des MSG Zirkels [hier](pages/msg.md).
+ - Zur Seite des MSG Zirkels [hier](pages/msg.html).
+
+ - For a list of my publications click [here](pages/research.html).
 
 <!--[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>-->
 
