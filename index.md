@@ -1,9 +1,11 @@
 ---
 layout: frontpage
-title: TCR
+title: TR
 description: Tommaso is a PhD candidate at Humboldt University. 
 keywords: hello, goodbye
 ---
+
+ - Zur Seite des MSG Zirkels [hier](pages/msg.md).
 
 <!--[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>-->
 
