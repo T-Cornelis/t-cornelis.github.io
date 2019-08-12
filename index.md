@@ -14,8 +14,8 @@ keywords: hello, goodbye
         <div class="span5">
             Tommaso C. Rosati<br/>
             Email: rosatito at math.hu-berlin.de<br/>
-	    PhD Candidate at Humboldt University, Berlin <br/>
-	    Under the supervision of Professor Nicolas Perkowski <br/>
+	    PhD candidate @ Humboldt University, Berlin <br/>
+	    Supervisor: Professor Nicolas Perkowski <br/>
         </div>
 
         <div class="span2">
