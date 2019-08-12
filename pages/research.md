@@ -4,17 +4,15 @@ title: Research
 description: My few works 
 ---
 
----
+ - ##### Modelled distributions of Triebel-Lizorkin type, with Sebastian Hensel. Preprint [here](https://arxiv.org/abs/1709.05202).
 
- - ###### Modelled distributions of Triebel-Lizorkin type, w/ Sebastian Hensel. Preprint [here](https://arxiv.org/abs/1709.05202).
+ - ##### The KPZ equation on the real line with Nicolas Perkowski. Preprint [here](https://arxiv.org/abs/1808.00354).
 
- - ###### The KPZ equation on the real line w/ Nicolas Perkowski. Preprint [here](https://arxiv.org/abs/1808.00354).
+ - ##### Rough super-Brownian motion with Nicolas Perkowski. Preprint [here](https://arxiv.org/abs/1905.05825).
 
- - ###### Rough super-Brownian motion w/ Nicolas Perkowski. Preprint [here](https://arxiv.org/abs/1905.05825).
+ - ##### Killed rough super-Brownian motion. Preprint [here](https://arxiv.org/abs/1906.11054).
 
- - ###### Killed rough super-Brownian motion. Preprint [here](https://arxiv.org/abs/1906.11054).
-
- - ###### Synchronization for KPZ. Preprint [here](https://arxiv.org/abs/1907.06278).
+ - ##### Synchronization for KPZ. Preprint [here](https://arxiv.org/abs/1907.06278).
 
 
 
