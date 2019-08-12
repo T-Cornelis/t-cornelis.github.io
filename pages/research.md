@@ -4,15 +4,15 @@ title: Research
 description: My few works 
 ---
 
- - ### <u>Modelled distributions of Triebel-Lizorkin type <\u>
+ - ## Modelled distributions of Triebel-Lizorkin type. Preprint [here](https://arxiv.org/abs/1709.05202).
 
- - ### <u>The KPZ equation on the real line <\u>
+ - ## The KPZ equation on the real line. Preprint [here](https://arxiv.org/abs/1808.00354).
 
- - ### <u>Rough super-Brownian motion<\u>
+ - ## Rough super-Brownian motion. Preprint [here](https://arxiv.org/abs/1905.05825).
 
- - ### <u>Killed rough super-Brownian motion<\u>
+ - ## Killed rough super-Brownian motion. Preprint [here](https://arxiv.org/abs/1906.11054).
 
- - ### <u>Synchronization for KPZ<\u>
+ - ## Synchronization for KPZ. Preprint [here](https://arxiv.org/abs/1907.06278).
 
 
 
