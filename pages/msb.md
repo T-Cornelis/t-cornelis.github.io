@@ -9,9 +9,9 @@ Diese Webseite wird sich in der Zeit etwas verbessern.
 
 Einige wichtige Infos: 
 
- - Erster Termin: Dorotheenstr. 24, Raum 2.102, Datum: 21.08, Uhrzeit: 16:30 
+ - ##### Erster Termin: Dorotheenstr. 24, Raum 2.102, Datum: 21.08, Uhrzeit: 16:30 
 
- - Der Termin am 28.8 wird NICHT stattfinden. 
+ - ##### Der Termin am 28.8 wird NICHT stattfinden. 
 
  - Zweiter Termin: Dorotheenstr. 24, Raum 1.307, Datum: 4.09, Uhrzeit: 16:30 
 
@@ -19,10 +19,10 @@ Einige wichtige Infos:
 
 Einige nuetzliche Links:
 
- - Zum online rechnen: https://www.wolframalpha.com.
- - Ein Forum mit vielen guten Fragen/Antworten: https://math.stackexchange.com.
+ - Zum online rechnen: <https://www.wolframalpha.com>.
+ - Ein Forum mit vielen guten Fragen/Antworten: <https://math.stackexchange.com>.
  - Die Webseite der MSG:
-   http://didaktik.mathematik.hu-berlin.de/de/schule/msg-schuelergesellschaft.
+   <http://didaktik.mathematik.hu-berlin.de/de/schule/msg-schuelergesellschaft>.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
