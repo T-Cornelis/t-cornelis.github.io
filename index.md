@@ -15,7 +15,7 @@ keywords: hello, goodbye
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
+            Tommaso C. Rosati<br/>
             Email: rosatito@math.hu-berlin.de<br/>
         </div>
 
