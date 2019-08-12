@@ -13,7 +13,9 @@ keywords: hello, goodbye
     <div class="row-fluid">
         <div class="span5">
             Tommaso C. Rosati<br/>
-            Email: rosatito@math.hu-berlin.de<br/>
+            Email: rosatito at math.hu-berlin.de<br/>
+	    PhD Candidate at Humboldt University, Berlin <br/>
+	    Under the supervision of Professor Nicolas Perkowski <br/>
         </div>
 
         <div class="span2">
@@ -34,7 +36,6 @@ keywords: hello, goodbye
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/cv.html">cv</a></li>
           <li><a href="https://github.com/T-Cornelis">GitHub</a></li>
       </ul>
   </div>
