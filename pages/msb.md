@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MSG Zirkel - Dotorheenstr. 24 (HU Berlin, Mitte)
+title: MSG Zirkel - Dorotheenstr. 24 (HU Berlin, Mitte)
 description: MSG Zirkel Webseite 
 ---
 
