@@ -4,10 +4,8 @@ title: MSG Zirkel - Dorotheenstr. 24 (HU Berlin, Mitte)
 description: MSG Zirkel Webseite 
 ---
 
-Diese Webseite wird sich in der Zeit etwas verbessern. 
 
-
-Einige wichtige Infos: 
+####Wichtige Infos: 
 
  - ##### Erster Termin: Dorotheenstr. 24, Raum 2.102, Datum: 21.08, Uhrzeit: 16:30 
 
@@ -17,7 +15,11 @@ Einige wichtige Infos:
 
 (Bitter bemerken Sie, dass der Raum im zweiten Termin vom ersten abweicht) 
 
-Einige nuetzliche Links:
+####Aufgaben:
+
+ - Erster <Zettel href="aufgaben/Aufgabe_1.pdf">, zum 4.09. 
+
+####Einige nuetzliche Links:
 
  - Zum online rechnen: <https://www.wolframalpha.com>.
  - Ein Forum mit vielen guten Fragen/Antworten: <https://math.stackexchange.com>.
