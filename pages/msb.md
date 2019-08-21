@@ -5,7 +5,7 @@ description: MSG Zirkel Webseite
 ---
 
 
-####Wichtige Infos: 
+#### Wichtige Infos: 
 
  - ##### Erster Termin: Dorotheenstr. 24, Raum 2.102, Datum: 21.08, Uhrzeit: 16:30 
 
@@ -15,11 +15,11 @@ description: MSG Zirkel Webseite
 
 (Bitter bemerken Sie, dass der Raum im zweiten Termin vom ersten abweicht) 
 
-####Aufgaben:
+#### Aufgaben:
 
  - Erster <Zettel href="aufgaben/Aufgabe_1.pdf">, zum 4.09. 
 
-####Einige nuetzliche Links:
+#### Einige nuetzliche Links:
 
  - Zum online rechnen: <https://www.wolframalpha.com>.
  - Ein Forum mit vielen guten Fragen/Antworten: <https://math.stackexchange.com>.
