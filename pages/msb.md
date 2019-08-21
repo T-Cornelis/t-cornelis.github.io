@@ -17,7 +17,7 @@ description: MSG Zirkel Webseite
 
 #### Aufgaben:
 
- - Erster <a href="https://t-cornelis.github.io/aufgaben/Aufgabe_1.pdf">Zettel</a> (zum 4.09). 
+ - Erster <a href="../aufgaben/Aufgabe_1.pdf">Zettel</a> (zum 4.09). 
 
 #### Einige nuetzliche Links:
 
