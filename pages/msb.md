@@ -7,19 +7,20 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos: 
 
- - ##### Erster Termin: Dorotheenstr. 24, Raum 2.102, Datum: 21.08, Uhrzeit: 16:30 
-
  - ##### Der Termin am 28.8 wird NICHT stattfinden. 
 
- - Zweiter Termin: Dorotheenstr. 24, Raum 1.307, Datum: 4.09, Uhrzeit: 16:30 
+ - ##### Zweiter Termin: Dorotheenstr. 24, Raum 1.307, Datum: 4.09, Uhrzeit: 16:30 
 
-(Bitter bemerken Sie, dass der Raum im zweiten Termin vom ersten abweicht) 
+(Das ist derselbe Raum in dem wir das letzte Mahl wahren) 
 
 #### Aufgaben:
 
- - Erster <a href="../aufgaben/Aufgabe_1.pdf">Zettel</a> (zum 4.09). 
+ - Erster <a href="../aufgaben/Aufgabe_1.pdf">Zettel</a> (zum 4.09). Zur
+   Erinnerung, das Euklidische Parallelenaxiom sagt, dass a + b = 180° in der
+Figur unten gilt (wobei die zwei Linien Parallel sein müssen): 
+<img src="Parallel_Postulate.png" alt="Parallelenaxiom">
 
-#### Einige nuetzliche Links:
+#### Einige nützliche Links:
 
  - Zum online rechnen: <https://www.wolframalpha.com>.
  - Ein Forum mit vielen guten Fragen/Antworten: <https://math.stackexchange.com>.
