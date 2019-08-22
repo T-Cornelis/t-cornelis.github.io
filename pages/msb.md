@@ -17,15 +17,14 @@ description: MSG Zirkel Webseite
 
  - Erster <a href="../aufgaben/Aufgabe_1.pdf">Zettel</a> (zum 4.09). Zur
    Erinnerung, das Euklidische Parallelenaxiom sagt, dass a + b = 180° in der
-Figur unten gilt (wobei die zwei Linien Parallel sein müssen): 
+Figur unten gilt (wobei die zwei Linien parallel sein müssen): 
 <img src="Parallel_Postulate.png" alt="Parallelenaxiom">
 
 #### Einige nützliche Links:
 
  - Zum online rechnen: <https://www.wolframalpha.com>.
  - Ein Forum mit vielen guten Fragen/Antworten: <https://math.stackexchange.com>.
- - Die Webseite der MSG:
-   <http://didaktik.mathematik.hu-berlin.de/de/schule/msg-schuelergesellschaft>.
+ - Die Webseite der MSG: <http://didaktik.mathematik.hu-berlin.de/de/schule/msg-schuelergesellschaft>.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
