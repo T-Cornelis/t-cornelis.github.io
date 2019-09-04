@@ -9,7 +9,7 @@ description: MSG Zirkel Webseite
 
  - ##### Dritter Termin: Dorotheenstr. 24, Raum 1.307, Datum: 11.09, Uhrzeit: 16:30 
 
-(Das ist derselbe Raum in dem wir die letzten zwei Mahle wahren) 
+(Das ist derselbe Raum in dem wir die letzten zwei Male wahren) 
 
 #### Aufgaben:
 
