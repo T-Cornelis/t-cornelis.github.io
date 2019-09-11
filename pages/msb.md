@@ -7,9 +7,9 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos: 
 
- - ##### Dritter Termin: Dorotheenstr. 24, Raum 1.307, Datum: 11.09, Uhrzeit: 16:30 
+ - ##### Vierter Termin: Dorotheenstr. 24, Raum 1.307, Datum: 18.09, Uhrzeit: 16:30 
 
-(Das ist derselbe Raum in dem wir die letzten zwei Male wahren) 
+(Das ist derselbe Raum in dem wir die letzten drei Male wahren) 
 
 #### Aufgaben:
 
@@ -21,10 +21,18 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
  - Zweiter <a href="../aufgaben/Aufgabe_2_2.pdf">Zettel</a> (zum 11.09). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_2_1.pdf">Probleme</a> besprochen.
 
+ - Dritter <a href="../aufgaben/Aufgabe_3_2.pdf">Zettel</a> (zum 11.09). In der
+   Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_3_1.pdf">Probleme</a> besprochen.
+
+
 #### Regeln für die Hausaufgaben:
 
  - Ein (1) Beweis vollkommen aufschreiben und abgeben. Dabei kann man zwischen allen Aufgaben mit 
    Ausrufezeichen oder "B" Zeichen wählen. Im Beweis sollte man sorgfältig diesen drei einfachen <a href="../Mantra.pdf">Regeln</a> folgen.
+
+ - Pflichtaufgaben sind mit "P" bezeichnet und diese müssen alle machen. Diese
+   aufgaben werden ebenfalls abgegeben, korrigiert und die nächste Woche
+   zurück gegeben. 
 
  - Sicherstellen, dass man die Aufgaben ohne Ausrufezeichen im Übungszettel 
    machen kann, und so weit wie möglich und nach der eigenen Lust, den Beweis
