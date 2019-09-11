@@ -21,7 +21,7 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
  - Zweiter <a href="../aufgaben/Aufgabe_2_2.pdf">Zettel</a> (zum 11.09). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_2_1.pdf">Probleme</a> besprochen.
 
- - Dritter <a href="../aufgaben/Aufgabe_3_2.pdf">Zettel</a> (zum 11.09). In der
+ - Dritter <a href="../aufgaben/Aufgabe_3_2.pdf">Zettel</a> (zum 18.09). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_3_1.pdf">Probleme</a> besprochen.
 
 
