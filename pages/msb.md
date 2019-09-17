@@ -10,8 +10,8 @@ description: MSG Zirkel Webseite
  - ##### Vierter Termin: Dorotheenstr. 24, Raum 2.102, Datum: 18.09, Uhrzeit: 16:30 
 
 (DER RAUM HAT SICH VERÄNDERT: Das ist derselbe Raum in dem wir das erste Mal
-sein sollten. Jetzt ist der Raum allerdings beschriftet und ich habe die
-richtigen Schlüssel. Der Raum befindet sich im ersten Geschoss von Haus 2,
+sein sollten. Jetzt sollte der Raum allerdings beschriftet sein und ich sollte die
+richtigen Schlüssel haben. Der Raum befindet sich im ersten Geschoss von Haus 2,
 genau wo wir ihn das erste Mal gesucht haben) 
 
 #### Aufgaben:
