@@ -7,7 +7,7 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos: 
 
- - ##### Vierter Termin: Dorotheenstr. 24, Raum 2.103, Datum: 18.09, Uhrzeit: 16:30 
+ - ##### Vierter Termin: Dorotheenstr. 24, Raum 2.102, Datum: 18.09, Uhrzeit: 16:30 
 
 (DER RAUM HAT SICH VERÄNDERT: Das ist derselbe Raum in dem wir das erste Mal
 sein sollten. Jetzt ist der Raum allerdings beschriftet und ich habe die
