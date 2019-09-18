@@ -24,7 +24,7 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
  - Dritter <a href="../aufgaben/Aufgabe_3_2.pdf">Zettel</a> (zum 18.09). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_3_1.pdf">Probleme</a> besprochen.
 
- - Vierter <a href="../aufgaben/Aufgabe_4_2.pdf">Zettel</a> (zum 25.09). In der
+ - Vierter <a href="../aufgaben/ufgabe_4_2.pdf">Zettel</a> (zum 25.09). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_4_1.pdf">Probleme</a> besprochen.
 
 #### Regeln für die Hausaufgaben:
