@@ -30,18 +30,13 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
 
 #### Regeln für die Hausaufgaben:
 
- - Ein (1) Beweis vollkommen aufschreiben und abgeben. Dabei kann man zwischen allen Aufgaben mit 
+ - Ein (1) Beweis **soweit wie möglich vollkommen aufschreiben** und abgeben. Dabei kann man zwischen allen Aufgaben mit 
    Ausrufezeichen oder "B" Zeichen wählen. Im Beweis sollte man sorgfältig diesen drei einfachen <a href="../Mantra.pdf">Regeln</a> folgen.
 
  - Pflichtaufgaben sind mit "P" bezeichnet und diese müssen alle machen. Diese
-   aufgaben werden ebenfalls abgegeben, korrigiert und die nächste Woche
-   zurück gegeben. 
+   aufgaben werden ebenfalls abgegeben und korrigiert. 
 
- - Sicherstellen, dass man die Aufgaben ohne Ausrufezeichen im Übungszettel 
-   machen kann, und so weit wie möglich und nach der eigenen Lust, den Beweis
-   aufschreiben (man kann auch mehr als ein Beweis zum korrigieren abgeben).
-
- - Aufgaben mit Ausrufezeichen sind komplizierter, freiwillig, und am interessantesten.
+ - Aufgaben können nach der eigenen Empfindung kompliziert sein.
    Eine Idee ist dort genau so gut wie ein vollständiger Beweis.
 
 #### Einige nützliche Links:
