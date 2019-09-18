@@ -7,12 +7,9 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos: 
 
- - ##### Vierter Termin: Dorotheenstr. 24, Raum 2.102, Datum: 18.09, Uhrzeit: 16:30 
+ - ##### Fünfter Termin: Dorotheenstr. 24, Raum 1.307, Datum: 25.09, Uhrzeit: 16:30 
 
-(DER RAUM HAT SICH VERÄNDERT: Das ist derselbe Raum in dem wir das erste Mal
-sein sollten. Jetzt sollte der Raum allerdings beschriftet sein und ich sollte die
-richtigen Schlüssel haben. Der Raum befindet sich im ersten Geschoss von Haus 2,
-genau wo wir ihn das erste Mal gesucht haben) 
+(Derselbe Raum wie alle anderen Male: Haus 1, 3OG)
 
 #### Aufgaben:
 
@@ -27,6 +24,8 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
  - Dritter <a href="../aufgaben/Aufgabe_3_2.pdf">Zettel</a> (zum 18.09). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_3_1.pdf">Probleme</a> besprochen.
 
+ - Vierter <a href="../aufgaben/Aufgabe_4_2.pdf">Zettel</a> (zum 25.09). In der
+   Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_4_1.pdf">Probleme</a> besprochen.
 
 #### Regeln für die Hausaufgaben:
 
@@ -37,7 +36,7 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
    aufgaben werden ebenfalls abgegeben und korrigiert. 
 
  - Aufgaben können nach der eigenen Empfindung kompliziert sein.
-   Eine Idee ist dort genau so gut wie ein vollständiger Beweis.
+   Eine Idee ist genau so gut wie ein vollständiger Beweis.
 
 #### Einige nützliche Links:
 
