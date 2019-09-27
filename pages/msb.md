@@ -7,7 +7,7 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos: 
 
- - ##### Fünfter Termin: Dorotheenstr. 24, Raum 1.307, Datum: 25.09, Uhrzeit: 16:30 
+ - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 2.10, Uhrzeit: 16:30 
 
 (Derselbe Raum wie alle anderen Male: Haus 1, 3OG)
 
@@ -26,6 +26,9 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
 
  - Vierter <a href="../aufgaben/ufgabe_4_2.pdf">Zettel</a> (zum 25.09). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_4_1.pdf">Probleme</a> besprochen.
+
+ - Fünfter <a href="../aufgaben/Aufgabe_5_2.pdf">Zettel</a> (zum 2.10). In der
+   Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_5_1.pdf">Probleme</a> besprochen.
 
 #### Regeln für die Hausaufgaben:
 
