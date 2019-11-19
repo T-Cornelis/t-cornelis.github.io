@@ -7,9 +7,9 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos: 
 
- - #### EIN TERMIN FÄLLT AUS! 
+ - #### EIN WEITERER TERMIN FÄLLT AUS - AUCH DIESER MITTWOCH FAELLT AUS! 
 
- - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 20.11, Uhrzeit: 16:30 
+ - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 27.11, Uhrzeit: 16:30 
 
 (Derselbe Raum wie alle anderen Male: Haus 1, 3OG)
 
