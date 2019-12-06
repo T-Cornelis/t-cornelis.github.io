@@ -7,7 +7,7 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos: 
 
- - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 4.12, Uhrzeit: 16:30 
+ - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 11.12, Uhrzeit: 16:30 
 
 (Derselbe Raum wie alle anderen Male: Haus 1, 3OG)
 
@@ -41,6 +41,9 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
 
  - Neunter <a href="../aufgaben/Aufgabe_9_2.pdf">Zettel</a> (zum 4.12). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_9_1.pdf">Probleme</a> besprochen.
+
+ - Zehnter <a href="../aufgaben/Aufgabe_10_2.pdf">Zettel</a> (zum 4.12). In der
+   Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_10_1.pdf">Probleme</a> besprochen.
 
 
 
