@@ -45,6 +45,10 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
  - Zehnter <a href="../aufgaben/Aufgabe_10_2.pdf">Zettel</a> (zum 11.12). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_10_1.pdf">Probleme</a> besprochen.
 
+ - Elfter <a href="../aufgaben/Aufgabe_11_2.pdf">Zettel</a> (zum 18.12). In der
+   Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_11_1.pdf">Probleme</a> besprochen.
+
+
 
 
 #### Regeln für die Hausaufgaben:
