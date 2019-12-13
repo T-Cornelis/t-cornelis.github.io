@@ -4,16 +4,15 @@ title: Research
 description: My few works 
 ---
 
- - ##### Modelled distributions of Triebel-Lizorkin type, with Sebastian Hensel. Preprint [here](https://arxiv.org/abs/1709.05202).
-
- - ##### The KPZ equation on the real line with Nicolas Perkowski. Preprint [here](https://arxiv.org/abs/1808.00354).
-
- - ##### Rough super-Brownian motion with Nicolas Perkowski. Preprint [here](https://arxiv.org/abs/1905.05825).
+ - ##### Synchronization for KPZ. Preprint [here](https://arxiv.org/abs/1907.06278).
 
  - ##### Killed rough super-Brownian motion. Preprint [here](https://arxiv.org/abs/1906.11054).
 
- - ##### Synchronization for KPZ. Preprint [here](https://arxiv.org/abs/1907.06278).
+ - ##### Rough super-Brownian motion with Nicolas Perkowski. Preprint [here](https://arxiv.org/abs/1905.05825).
 
+ - ##### The KPZ equation on the real line with Nicolas Perkowski, Electron. J. Probab. 24 (2019), paper no. 117. Preprint [here](https://arxiv.org/abs/1808.00354).
+
+ - ##### Modelled distributions of Triebel-Lizorkin type, with Sebastian Hensel, accepted for publication in Studia Mathematica. Preprint [here](https://arxiv.org/abs/1709.05202).
 
 
 <!--#### <u>The effects of increased eye contact on feeding portions</u>-->
