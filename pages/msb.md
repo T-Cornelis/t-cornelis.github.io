@@ -7,7 +7,7 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos: 
 
- - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 4.12, Uhrzeit: 16:30 
+ - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 8.1.2020, Uhrzeit: 16:30 
 
 (Derselbe Raum wie alle anderen Male: Haus 1, 3OG)
 
