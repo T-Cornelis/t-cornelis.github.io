@@ -1,4 +1,3 @@
-
 layout: page
 title: MSG Zirkel - Dorotheenstr. 24 (HU Berlin, Mitte)
 description: MSG Zirkel Webseite 
@@ -7,7 +6,9 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos: 
 
- - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 22.1.2020, Uhrzeit: 16:30 
+ - ### ZIRKEL FINDET AM 22.1 NICHT STATT!
+
+ - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 28.1.2020, Uhrzeit: 16:30 
 
 (Derselbe Raum wie alle anderen Male: Haus 1, 3OG)
 
@@ -50,10 +51,10 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
 
  - In der zwölften Vorlesung wurden folgende <a href="../aufgaben/Aufgabe_13_1.pdf">Probleme</a> besprochen (keine Hausaufgaben wegen Weihnachtsferien).
 
- - Dreizehnter <a href="../aufgaben/Aufgabe_13_2.pdf">Zettel</a> (zum 18.12). In der
+ - Dreizehnter <a href="../aufgaben/Aufgabe_13_2.pdf">Zettel</a> (zum 14.1). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_13_1.pdf">Probleme</a> besprochen.
 
- - Vierzehnter <a href="../aufgaben/Aufgabe_14_2.pdf">Zettel</a> (zum 22.12). In der
+ - Vierzehnter <a href="../aufgaben/Aufgabe_14_2.pdf">Zettel</a> (zum 22.1). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_14_1.pdf">Probleme</a> besprochen.
 
 #### Regeln für die Hausaufgaben:
