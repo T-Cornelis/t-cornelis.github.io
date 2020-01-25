@@ -7,8 +7,6 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos: 
 
- - ### ZIRKEL FINDET AM 22.1 NICHT STATT!
-
  - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 28.1.2020, Uhrzeit: 16:30 
 
 (Derselbe Raum wie alle anderen Male: Haus 1, 3OG)
