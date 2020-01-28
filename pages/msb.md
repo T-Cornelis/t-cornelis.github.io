@@ -1,13 +1,13 @@
 ---
 layout: page
 title: MSG Zirkel - Dorotheenstr. 24 (HU Berlin, Mitte)
-description: MSG Zirkel Webseite 
+description: MSG Zirkel Webseite
 ---
 
 
-#### Wichtige Infos: 
+#### Wichtige Infos:
 
- - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 28.1.2020, Uhrzeit: 16:30 
+ - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 29.1.2020, Uhrzeit: 16:30 
 
 (Derselbe Raum wie alle anderen Male: Haus 1, 3OG)
 
@@ -15,7 +15,7 @@ description: MSG Zirkel Webseite
 
  - Erster <a href="../aufgaben/Aufgabe_1.pdf">Zettel</a> (zum 4.09). Zur
    Erinnerung, das Euklidische Parallelenaxiom sagt, dass a + b = 180° in der
-Figur unten gilt (wobei die zwei Linien parallel sein müssen): 
+Figur unten gilt (wobei die zwei Linien parallel sein müssen):
 <img src="Parallel_Postulate.png" alt="Parallelenaxiom">
 
  - Zweiter <a href="../aufgaben/Aufgabe_2_2.pdf">Zettel</a> (zum 11.09). In der
@@ -58,11 +58,11 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
 
 #### Regeln für die Hausaufgaben:
 
- - Ein (1) Beweis **soweit wie möglich vollkommen aufschreiben** und abgeben. Dabei kann man zwischen allen Aufgaben mit 
+ - Ein (1) Beweis **soweit wie möglich vollkommen aufschreiben** und abgeben. Dabei kann man zwischen allen Aufgaben mit
    Ausrufezeichen oder "B" Zeichen wählen. Im Beweis sollte man sorgfältig diesen drei einfachen <a href="../Mantra.pdf">Regeln</a> folgen.
 
  - Pflichtaufgaben sind mit "P" bezeichnet und diese müssen alle machen. Diese
-   aufgaben werden ebenfalls abgegeben und korrigiert. 
+   aufgaben werden ebenfalls abgegeben und korrigiert.
 
  - Aufgaben können nach der eigenen Empfindung kompliziert sein.
    Eine Idee ist genau so gut wie ein vollständiger Beweis.
@@ -77,7 +77,7 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
 
 <!--
 To increase the size of the title, use fewer # in front of the paper title.
-To decrease the size of the title, use more #. 
+To decrease the size of the title, use more #.
 To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
 -->
