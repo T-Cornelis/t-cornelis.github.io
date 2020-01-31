@@ -6,9 +6,9 @@ description: Reading group on large deviations
 
 #### Next Meetings:
 
- - 30.1 Cramer's theorem (Ana & Nicolas)
+ - 30.1 Cramer's theorem (Ana)
 
- - 6.2 Examples (Tommaso)
+ - 6.2 Sanov & Examples (Nicolas & Tommaso)
 
  - 10.1 Theory (Helena)
 
