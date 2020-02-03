@@ -12,7 +12,7 @@ description: Reading group on large deviations
 
  - 10.1 Theory (Helena)
 
- - 21.2 T.B.C. (Tal)
+ - 21.2 T.B.C. (Tal) upper bound 15:00
 
  - 12.3
 
