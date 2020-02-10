@@ -12,15 +12,19 @@ description: Reading group on large deviations
 
  - 10.1 Theory (Helena)
 
- - 21.2 T.B.C. (Tal) upper bound 15:00
+ - 20.2 T.B.C. (Helena & Tal) After lunch directly (or pass it to friday)
 
- - 12.3
-
- - 13.3
+ - 12.3 T.B.C.
 
  - 19.3
 
  - 20.3
+
+ Possible arguments:
+
+ - Curie-Weiss
+
+ - Friedelin-Wentzell
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
