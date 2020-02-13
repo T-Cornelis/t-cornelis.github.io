@@ -7,9 +7,7 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos:
 
- - ###### Am 5.2 kein Termin, weil es Ferien gibt. 
-
- - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 12.2.2020, Uhrzeit: 16:30 
+ - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 19.2.2020, Uhrzeit: 16:30
 
 (Derselbe Raum wie alle anderen Male: Haus 1, 3OG)
 
@@ -61,6 +59,8 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
  - Keine Hausaufgaben wegen Ferien. In der
    Vorlesung zuvor (am 29.1) wurden folgende <a href="../aufgaben/Aufgabe_15_1.pdf">Probleme</a> besprochen.
 
+ - Sechzehnter <a href="../aufgaben/Aufgabe_16_2.pdf">Zettel</a> (zum 19.2). In der
+     Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_16_1.pdf">Probleme</a> vorgeschlagen, aber wir haben hauptsächlich <a href="https://de.wikipedia.org/wiki/Platonischer_K%C3%B6rper">Platonische Körper</a> gebastelt.
 
 #### Regeln für die Hausaufgaben:
 
