@@ -12,13 +12,9 @@ description: Reading group on large deviations
 
  - 10.1 Theory (Helena)
 
- - 20.2 T.B.C. (Helena & Tal) After lunch directly (or pass it to friday)
+ - 20.2 (Helena) After lunch directly (or pass it to friday)
 
- - 12.3 T.B.C.
-
- - 19.3
-
- - 20.3
+ - 19.3 Meeting!
 
  Possible arguments:
 
