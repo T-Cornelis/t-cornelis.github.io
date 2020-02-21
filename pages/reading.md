@@ -16,6 +16,8 @@ description: Reading group on large deviations
 
  - 19.3 Meeting!
 
+ - 20.3 second meeting!
+
  Possible arguments:
 
  - Curie-Weiss
