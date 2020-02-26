@@ -7,7 +7,7 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos:
 
- - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 26.2.2020, Uhrzeit: 16:30
+ - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 4.3.2020, Uhrzeit: 16:30
 
 (Derselbe Raum wie alle anderen Male: Haus 1, 3OG)
 
@@ -64,6 +64,9 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
 
  - Im nächsten Unterricht, werden wir zusammen <a href="../aufgaben/Aufgabe_17_2.pdf">diese</a> Probleme lösen. In der
          Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_17_1.pdf">Probleme</a> besprochen, und wir haben noch <a href="../aufgaben/Aufgabe_17_3.pdf">etwas</a> über Platonische Körper versucht.
+
+ - Vierzehnter <a href="../aufgaben/Aufgabe_18_2.pdf">Zettel</a> (zum 22.1). In der
+   Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_18_1.pdf">Probleme</a> besprochen.
 
 #### Regeln für die Hausaufgaben:
 
