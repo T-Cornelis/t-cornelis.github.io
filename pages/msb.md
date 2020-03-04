@@ -65,8 +65,11 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
  - Im nächsten Unterricht, werden wir zusammen <a href="../aufgaben/Aufgabe_17_2.pdf">diese</a> Probleme lösen. In der
          Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_17_1.pdf">Probleme</a> besprochen, und wir haben noch <a href="../aufgaben/Aufgabe_17_3.pdf">etwas</a> über Platonische Körper versucht.
 
- - Achtzehnter <a href="../aufgaben/Aufgabe_18_2.pdf">Zettel</a> (zum 22.1). In der
+ - Achtzehnter <a href="../aufgaben/Aufgabe_18_2.pdf">Zettel</a> (zum 4.3). In der
    Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_18_1.pdf">Probleme</a> besprochen.
+
+ - Neunzehnter <a href="../aufgaben/Aufgabe_19_2.pdf">Zettel</a> (zum 11.3). In der
+   Vorlesung zuvor wurden folgende <a href="../aufgaben/Aufgabe_19_1.pdf">Probleme</a> besprochen.
 
 #### Regeln für die Hausaufgaben:
 
