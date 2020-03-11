@@ -7,9 +7,9 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos:
 
- - ###### Infos zum Coronavirus wird es demnächst geben.
+ - ### Infos zum Coronavirus wird es demnächst geben.
 
- - ###### Die neue Webseite lautet: <https://rosati-tom.github.io>.
+ - ### Die neue Webseite lautet: <https://rosati-tom.github.io>.
 
  - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 18.3.2020, Uhrzeit: 16:30
 
