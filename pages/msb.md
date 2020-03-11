@@ -7,8 +7,7 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos:
 
- - ## Der Zirkel ist wegen der Coronavirus Epidemie abgesagt. Es finden vorerst
-   keine weiteren Unterrichte.
+ - ## Der Zirkel ist abgesagt. Es finden vorerst keine weiteren Unterrichte statt.
 
 <!-- - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 18.3.2020, Uhrzeit: 16:30-->
 
