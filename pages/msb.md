@@ -7,10 +7,10 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos:
 
- - ### Der Zirkel findet weiter im Online Format statt, auf der Plattform
-   "Discord". 
+ - #### Der Zirkel findet weiter im Online Format statt, auf der Plattform
+   <a href=https://discordapp.com/>Discord</a>. 
 
- - ##### Nächster Termin: Discord Server: https://discord.gg/SQnWMW, Datum: 22.4.2020, Uhrzeit: 16:00
+ - ##### Nächster Termin: Discord Server: <https://discord.gg/SQnWMW>, Datum: 22.4.2020, Uhrzeit: 16:00
 
 #### Aufgaben:
 
