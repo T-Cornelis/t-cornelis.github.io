@@ -7,11 +7,10 @@ description: MSG Zirkel Webseite
 
 #### Wichtige Infos:
 
- - ## Der Zirkel ist abgesagt. Es finden vorerst keine weiteren Unterrichte statt.
+ - ### Der Zirkel findet weiter im Online Format statt, auf der Plattform
+   "Discord". 
 
-<!-- - ##### Nächster Termin: Dorotheenstr. 24, Raum 1.307, Datum: 18.3.2020, Uhrzeit: 16:30-->
-
-<!--(Derselbe Raum wie alle anderen Male: Haus 1, 3OG)-->
+ - ##### Nächster Termin: Discord Server: https://discord.gg/SQnWMW, Datum: 22.4.2020, Uhrzeit: 16:00
 
 #### Aufgaben:
 
