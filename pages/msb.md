@@ -74,6 +74,8 @@ Figur unten gilt (wobei die zwei Linien parallel sein müssen):
  - <!--Zwanzigster <a href="../aufgaben/Aufgabe_20_2.pdf">Zettel</a> (zum 18.3).--> In der letzten
    Vorlesung wurden folgende <a href="../aufgaben/Aufgabe_20_1.pdf">Probleme</a> besprochen.
 
+ - Einundzwanzigster <a href="../aufgaben/Aufgabe_21.pdf">Zettel</a>.
+
 #### Regeln für die Hausaufgaben:
 
  - Ein (1) Beweis **soweit wie möglich vollkommen aufschreiben** und abgeben. Dabei kann man zwischen allen Aufgaben mit
